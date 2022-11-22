@@ -1,0 +1,23 @@
+{
+    "login" : {
+        "en": {
+            "login" : {
+                "title" : "Log In",
+                "description" : "Web App",
+                "buttonText" : "Login",
+                "footerLinkText" : "Create a username",
+                "footerText" : "Need an account?", 
+                "forgotPasswordText" : "Forgot username/password >"
+            }
+        }
+    },
+    "signup" : {
+        "en": {
+            "signup" : {
+                "title" : "Sign Up",
+                "description" : "Web App",
+                "buttonText" : "Signup"
+            } 
+        }
+    }
+}

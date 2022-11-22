@@ -1,0 +1,23 @@
+{
+    "login" : {
+        "en": {
+            "login" : {
+                "title" : "",
+                "description" : "",
+                "buttonText" : "",
+                "footerLinkText" : "",
+                "footerText" : "", 
+                "forgotPasswordText" : ""
+            }
+        }
+    },
+    "signup" : {
+        "en": {
+            "signup" : {
+                "title" : "",
+                "description" : "",
+                "buttonText" : ""
+            } 
+        }
+    }
+}
