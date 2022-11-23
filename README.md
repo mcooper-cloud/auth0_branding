@@ -4,7 +4,25 @@
 
 ## Usage
 
-`./branding.py --html-template [path] --branding-json [path] --prompts-json [path]`
+`./branding.py --help`
+
+```
+
+usage: branding.py [-h] [--branding-json BRANDING_JSON] [--prompts-json PROMPTS_JSON] [--html-template HTML_TEMPLATE] [--delete]
+
+Pipeline deployment utility
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --branding-json BRANDING_JSON
+                        Path to a the JSON file containing branding configuration
+  --prompts-json PROMPTS_JSON
+                        Path to a the JSON file containing prompts configuration
+  --html-template HTML_TEMPLATE
+                        Path to a the Universal Login HTML template
+  --delete              Remove both branding themes and Universal Login templates
+
+```
 
 
 # Auth0 Branding API
